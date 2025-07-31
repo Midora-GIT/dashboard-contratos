@@ -18,3 +18,4 @@ Este projeto apresenta um dashboard interativo para visualização e análise de
 4. Defina `main.py` como ponto de entrada
 
 Enjoy! 🚀
+<img width="630" height="819" alt="image" src="https://github.com/user-attachments/assets/0e1a63cb-a72b-4a3d-9ed0-f588425798c3" />
